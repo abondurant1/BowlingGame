@@ -1,0 +1,14 @@
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\BowlingGameTest.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\BowlingGameTest.pdb
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Bowling.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Bowling.pdb
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Kata\Bowling\Bowling\BowlingGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Kata\Bowling\Bowling\BowlingGameTest\obj\Debug\BowlingGameTest.csprojResolveAssemblyReference.cache
+C:\Kata\Bowling\Bowling\BowlingGameTest\obj\Debug\BowlingGameTest.dll
+C:\Kata\Bowling\Bowling\BowlingGameTest\obj\Debug\BowlingGameTest.pdb

@@ -1,0 +1,5 @@
+C:\Kata\Bowling\Bowling\Bowling\bin\Debug\Bowling.dll
+C:\Kata\Bowling\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Kata\Bowling\Bowling\Bowling\obj\Debug\BowlingGame.csprojResolveAssemblyReference.cache
+C:\Kata\Bowling\Bowling\Bowling\obj\Debug\Bowling.dll
+C:\Kata\Bowling\Bowling\Bowling\obj\Debug\Bowling.pdb
